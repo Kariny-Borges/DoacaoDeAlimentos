@@ -1,0 +1,14 @@
+D:\Ka\C#\DoacaoDeAlimentos\DoacaoDeAlimentos\bin\Debug\net9.0\DoacaoDeAlimentos.exe
+D:\Ka\C#\DoacaoDeAlimentos\DoacaoDeAlimentos\bin\Debug\net9.0\DoacaoDeAlimentos.deps.json
+D:\Ka\C#\DoacaoDeAlimentos\DoacaoDeAlimentos\bin\Debug\net9.0\DoacaoDeAlimentos.runtimeconfig.json
+D:\Ka\C#\DoacaoDeAlimentos\DoacaoDeAlimentos\bin\Debug\net9.0\DoacaoDeAlimentos.dll
+D:\Ka\C#\DoacaoDeAlimentos\DoacaoDeAlimentos\bin\Debug\net9.0\DoacaoDeAlimentos.pdb
+D:\Ka\C#\DoacaoDeAlimentos\DoacaoDeAlimentos\obj\Debug\net9.0\DoacaoDeAlimentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ka\C#\DoacaoDeAlimentos\DoacaoDeAlimentos\obj\Debug\net9.0\DoacaoDeAlimentos.AssemblyInfoInputs.cache
+D:\Ka\C#\DoacaoDeAlimentos\DoacaoDeAlimentos\obj\Debug\net9.0\DoacaoDeAlimentos.AssemblyInfo.cs
+D:\Ka\C#\DoacaoDeAlimentos\DoacaoDeAlimentos\obj\Debug\net9.0\DoacaoDeAlimentos.csproj.CoreCompileInputs.cache
+D:\Ka\C#\DoacaoDeAlimentos\DoacaoDeAlimentos\obj\Debug\net9.0\DoacaoDeAlimentos.dll
+D:\Ka\C#\DoacaoDeAlimentos\DoacaoDeAlimentos\obj\Debug\net9.0\refint\DoacaoDeAlimentos.dll
+D:\Ka\C#\DoacaoDeAlimentos\DoacaoDeAlimentos\obj\Debug\net9.0\DoacaoDeAlimentos.pdb
+D:\Ka\C#\DoacaoDeAlimentos\DoacaoDeAlimentos\obj\Debug\net9.0\DoacaoDeAlimentos.genruntimeconfig.cache
+D:\Ka\C#\DoacaoDeAlimentos\DoacaoDeAlimentos\obj\Debug\net9.0\ref\DoacaoDeAlimentos.dll
